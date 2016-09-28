@@ -1,0 +1,15 @@
+*{margin:0;
+padding:0;}
+
+header.hero
+{background: #255;
+color: white;
+height: 600px;
+padding: 100px;
+box-sizing: border-box;
+text-align: center;}
+
+header.hero h1
+{font-size:3em;
+font-family:sans-serif;
+margim: 100px auto;}
